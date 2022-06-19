@@ -1,0 +1,5 @@
+CONSIGNES
+L'objectif de cet exercice va être de faire en sorte qu'au clic sur l'image de cette page, 
+l'image soir redimensionnée à valeur de 400px de large et de 285px de haut, avec une bordure rouge de 1px
+PS: Le HTML est cette fois-ci modifiable à souhait.
+

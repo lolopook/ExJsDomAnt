@@ -1,0 +1,5 @@
+CONSIGNES
+Utilisez le fichier app.js pour afficher la fête du jour au sein 
+de l'élément possédant l'id "feteDuJour" suite au clic sur 
+le bouton "Découvrons ensemble"
+PS : Le 15 juin, c'est la Saint-Augustin

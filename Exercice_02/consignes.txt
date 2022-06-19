@@ -1,0 +1,5 @@
+CONSIGNES
+Dans cet exercice, vous allez devoir ajouter dans le fichier app.js 
+le code permettant à la pression du bouton Calculer,d'additionner 
+les sommes des deux inputs et ainsi affichier le resultat dans 
+l'ID correspondant

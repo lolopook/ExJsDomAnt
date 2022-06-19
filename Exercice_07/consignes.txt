@@ -1,0 +1,9 @@
+CONSIGNES
+
+
+1. Créer une fonction permettant de générer un password 
+aléatoire composé de 8 lettres et / ou  chiffres
+1. Vous devez faire en sorte qu'au chargement de 
+la page, une valeur s'ajoute dans notre input
+2. A chaque clic sur Randomize, une nouvelle chaîne 
+devra apparaître

@@ -1,0 +1,8 @@
+CONSIGNES
+Dans cet exercice 4, votre objectif va consister à 
+intégrer de nouveau pays à notre liste déroulante
+
+1. Faire en sorte qu'à la soumission d'un pays ne faisant 
+pas partie de la liste, il s'ajoute
+2. Si un pays est déjà existant dans la liste, 
+il faut alors l'afficher en bas de liste sans le recréer

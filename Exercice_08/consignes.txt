@@ -1,0 +1,7 @@
+CONSIGNES
+Deux objectifs 
+1. Faire en sorte qu'au clic sur le bouton X, 
+la ligne correpondante vienne se supprimer du tableau
+2. Afficher la ville et nom de team supprimée dans 
+le bloc paragraphe en dessous du tableau 
+(#deletedTeam)

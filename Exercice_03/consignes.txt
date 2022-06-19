@@ -1,0 +1,4 @@
+CONSIGNES
+Faites en sorte qu'en soumettant une image au sein 
+de notre champ url, cette image soit alors affichée 
+au sein de l'élément possédant l'ID "image" 

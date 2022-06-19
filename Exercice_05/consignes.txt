@@ -1,0 +1,4 @@
+CONSIGNES
+Faire en sorte en javascript d'afficher le nom de l'auteur de cette réplique,
+ sans modifier le style CSS ni dans le html ni dans une feuille de style,
+ mais seulement au travers de JS
